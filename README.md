@@ -17,6 +17,15 @@ Rocket Help é uma solução mobile que permite funcionários solicitarem suport
 - Autenticação segura de usuários
 - Gestão eficiente de demandas
 
+## 🛠️ Tecnologias Utilizadas
+
+- React Native
+- Expo
+- Firebase
+- TypeScript
+- Native Base
+- Phosphor Icons
+
 ## 📋 Pré-requisitos
 - Node.js
 - npm ou yarn
